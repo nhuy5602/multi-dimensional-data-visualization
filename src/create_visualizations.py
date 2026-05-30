@@ -1,11 +1,3 @@
-"""
-Generate multi-dimensional climate and weather visualizations.
-
-The script loads the CSV files in data/ and writes four PNG figures to
-output/: two views of daily city weather, one global temperature
-anomaly heatmap, and one Minnesota precipitation time series.
-"""
-
 import os
 from typing import List
 
